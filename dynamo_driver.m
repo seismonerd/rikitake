@@ -1,6 +1,8 @@
 %% dynamo_driver.m
 
-close all; clear; clc
+close all; 
+clear; 
+clc
 
 %%
 coeffs = [0.5 50 8 0.5];    %  m  g  r  f
